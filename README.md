@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Improved GitHub Profile README -->
 
 <p align="center">
@@ -91,4 +91,3 @@
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
-```
